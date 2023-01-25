@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marciodosanjos
-- 👀 I’m interested in have more hands-on experiences in the world of programming.practicing.
-- 🌱 I’m currently learning Javascript, React.JS and Node.JS.
-- 💞️ I’m looking to collaborate on digital and disruptive projects around the world.
+- 👀 I am interested in have more hands-on experiences in the web development market.
+- 🌱 I have learned HTML, CSS, JS, React.JS, Node.JS and MySQL and look for opportunities to put those skills into practice.
+- 💞️ I am looking to collaborate on digital and disruptive projects.
 - 📫 How to reach me on LinkedIn: [marciodosanjos](https://www.linkedin.com/in/marciodosanjos/).
 
 <!---
